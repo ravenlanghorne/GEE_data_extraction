@@ -2,7 +2,7 @@
 
 This repository provides the tools and codes to extract data from Google Earth Engine (GEE) datasets using Python. I provide a sample code for extracting data from monthly, daily, and hourly datasets which can be replicated for other datasets in GEE.
 
-Google provides useful resources on GEE in python on the developments [webpage](https://developers.google.com/earth-engine/guides/python_install_) and the Earth Engine API github [repository](https://github.com/google/earthengine-api/tree/master/python).
+Google provides useful resources on GEE in python on the developers [webpage](https://developers.google.com/earth-engine/guides/python_install_) and the Earth Engine API github [repository](https://github.com/google/earthengine-api/tree/master/python).
 
 # Steps
 1. sign up for Google Earth Engine: https://signup.earthengine.google.com/#!/
